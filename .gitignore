@@ -1,18 +1,13 @@
-# Entorno virtual
 venv/
 env/
 .venv/
 
-# Variables de entorno
 .env
-script.env
 
-# Cache de Python
 __pycache__/
 *.pyc
 *.pyo
 
-# VSCode
 .vscode/
 
-config.json/
+config.json
